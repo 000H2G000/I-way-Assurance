@@ -1,0 +1,13 @@
+.divBorder{
+ 
+        border-style: solid;
+        border-width: thin;
+        display:flex;
+        border-radius:20px;
+        
+}
+
+input{
+    background-color: #0011;
+    border:none;
+}
